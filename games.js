@@ -23,11 +23,11 @@ const categories = [
 // category 必須對應上方某個分類的 id。
 const games = [
   {
-    name: "水母記憶",
+    name: "水母記憶遊戲",
     category: "memory",
     description: "記住水母跳舞的順序，依序點選牠們！",
     url: "https://sharkwang0903.github.io/jellyfish-memory/",
-    image: ""
+    image: "assets/jellyfish-blue.png"
   },
 
   {
@@ -35,7 +35,7 @@ const games = [
     category: "memory",
     description: "記住剛才亮起的位置，熄燈後重新還原整個棋盤。",
     url: "https://sharkwang0903.github.io/The-disappearing-grid/",
-    image: ""
+    image: "assets/The-disappearing-grid.png"
   },
 
   {
@@ -43,7 +43,7 @@ const games = [
     category: "memory",
     description: "記住畫面中的數字，數字消失後依照原順序輸入答案。",
     url: "https://sharkwang0903.github.io/number-memory/",
-    image: ""
+    image: "assets/number-memory.png"
   },
 
   {
@@ -51,7 +51,7 @@ const games = [
     category: "reaction",
     description: "找出與其他格子顏色不同的方塊。",
     url: "https://sharkwang0903.github.io/color-sensitivity-test/",
-    image: ""
+    image: "assets/color-sensitivity-test.png"
   },
 
   {
@@ -59,7 +59,7 @@ const games = [
     category: "reaction",
     description: "重新排列每一排的色塊，讓顏色形成最平滑的漸層。",
     url: "https://sharkwang0903.github.io/Color-Sorting-Game/",
-    image: ""
+    image: "assets/Color-Sorting-Game.png"
   },
 
   {
@@ -67,7 +67,7 @@ const games = [
     category: "reaction",
     description: "在看不到任何計時資訊的情況下，憑自己的感覺判斷指定時間何時到達。",
     url: "https://sharkwang0903.github.io/time-test-game/index.html",
-    image: ""
+    image: "assets/time-test-game.png"
   },
 
   {
@@ -75,7 +75,7 @@ const games = [
     category: "reaction",
     description: "請忽略文字本身的意思，快速選擇它實際顯示的顏色。",
     url: "https://sharkwang0903.github.io/stroop-game/",
-    image: ""
+    image: "assets/stroop-game.png"
   },
 
   {
@@ -83,7 +83,7 @@ const games = [
     category: "logic",
     description: "畫一條直線，把圖形切成面積完全相等的兩半。",
     url: "https://sharkwang0903.github.io/one-cut-game/",
-    image: ""
+    image: "assets/one-cut-game.png"
   },
 
   {
@@ -91,6 +91,25 @@ const games = [
     category: "action",
     description: "不斷往洞穴深處前進，看看你能抵達地下幾樓。",
     url: "https://sharkwang0903.github.io/jellyfish-going-down-the-stairs/",
-    image: ""
-  }
+    image: "assets/jellyfish-idle.png"
+  },
+
+  {
+  name: "數之背包",
+  category: "logic",
+  description: "挑選指定數量的商品，讓重量剛好裝滿背包！",
+  url: "https://sharkwang0903.github.io/back/",
+  image: "assets/backpack-home.png"
+},
+
+{
+  name: "012S World Search",
+  category: "logic",
+  description: "在字母棋盤中尋找隱藏的 012S 產品名稱。",
+  url: "https://sharkwang0903.github.io/012S-world-search/",
+  image: "assets/012S World Search.png"
+}
+
+
+
 ];
