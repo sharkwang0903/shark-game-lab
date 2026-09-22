@@ -16,6 +16,10 @@ const categories = [
   {
     id: "action",
     name: "動作類"
+  },
+  {
+    id: "other",
+    name: "其他/活動類"
   }
 ];
 
@@ -108,8 +112,15 @@ const games = [
   description: "在字母棋盤中尋找隱藏的 012S 產品名稱。",
   url: "https://sharkwang0903.github.io/012S-world-search/",
   image: "assets/012S World Search.png"
-}
+},
 
+{
+  name: "甜甜菜菜子可可飲｜集章活動",
+  category: "other",
+  description: "喝一瓶，集一章！蒐集指定字章，兌換不同好禮。",
+  url: "https://sharkwang0903.github.io/Stamp-Rally-cocoa/",
+  image: "assets/Stamp-Rally-cocoa.png"
+}
 
 
 ];
