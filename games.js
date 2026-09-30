@@ -120,7 +120,15 @@ const games = [
   description: "喝一瓶，集一章！蒐集指定字章，兌換不同好禮。",
   url: "https://sharkwang0903.github.io/Stamp-Rally-cocoa/",
   image: "assets/Stamp-Rally-cocoa.png"
-}
+},
+
+{
+  name: "Blackjack 21 點",
+  category: "other",
+  description: "準備好上桌了嗎？試試自己的手氣吧",
+  url: "https://sharkwang0903.github.io/blackjack-game/",
+  image: "assets/Blackjack-game.png"
+},
 
 
 ];
