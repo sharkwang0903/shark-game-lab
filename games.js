@@ -130,5 +130,13 @@ const games = [
   image: "assets/Blackjack-game.png"
 },
 
+{
+  name: "藍點倉庫 · BLUE DOT WAREHOUSE",
+  category: "logic",
+  description: "八個房間。挑戰思考的深度。",
+  url: "https://sharkwang0903.github.io/BLUE-DOT-WAREHOUSE/",
+  image: "assets/BLUE-DOT.png"
+},
+
 
 ];
