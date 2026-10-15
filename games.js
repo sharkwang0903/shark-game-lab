@@ -138,5 +138,12 @@ const games = [
   image: "assets/BLUE-DOT.png"
 },
 
+{
+  name: "水母打磚塊",
+  category: "action",
+  description: "和 Pink 一起挑戰，商品道具助你破關。",
+  url: "https://sharkwang0903.github.io/block-breaker/",
+  image: "assets/block-breaker.png"
+},
 
 ];
