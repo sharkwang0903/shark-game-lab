@@ -146,4 +146,12 @@ const games = [
   image: "assets/block-breaker.png"
 },
 
+{
+  name: "PPA 肌膚升級之旅",
+  category: "other",
+  description: "廣告策略的活動~連結傳統的消消樂！",
+  url: "https://sharkwang0903.github.io/Dot-to-dot/",
+  image: "assets/PPA 肌膚升級之旅截圖-3.png"
+},
+
 ];
